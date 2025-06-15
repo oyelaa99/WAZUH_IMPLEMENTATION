@@ -18,3 +18,6 @@ sudo systemctl status wazuh-agent
 
 3.Check if the dashboard is active : 
 Sudo systemctl status elasticsearch 
+
+after all components are okay go to the wazuh interface and we will see the the acive in the agent summary which mean the agent has been link to the manager successfully.
+now you can see the logs from your agent .
