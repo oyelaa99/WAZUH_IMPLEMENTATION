@@ -1,2 +1,2 @@
 # WAZUH_IMPLEMENTATION
-step to implement wazuh(SIEM) in virtual box environment 
+step by step to implement wazuh(SIEM) in virtual box environment 
