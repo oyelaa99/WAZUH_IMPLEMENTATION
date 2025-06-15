@@ -1,1 +1,20 @@
 
+When you access the Wazuh dashboard for the first time, the browser shows a warning message stating that the certificate was not issued by a trusted authority.
+This is expected and the user has the option to accept the certificate as an exception or, alternatively, configure the system to use a certificate from a trusted authority.
+Now that your Wazuh installation is ready, you can start deploying the Wazuh agent.
+This can be used to protect laptops, desktops, servers, cloud instances, containers, or virtual machines.
+The agent is lightweight and multi-purpose, providing a variety of security capabilities.
+
+To deploy a new agent go to the wazuh interface . you will see a dashboard go to agent summary and click on deploy new agent , choose the package of the system where you want to install your agent
+Run the commands to download and install the agent in your  agent machine  according to the agent OS you choose , after that start the agent
+After installing all the wazuh component check if all the component are running by using the following command :
+
+
+1.Check if the manager is active 
+sudo systemctl status wazuh-manager
+
+2.Check if the agent is active  :
+sudo systemctl status wazuh-agent
+
+3.Check if the dashboard is active : 
+Sudo systemctl status elasticsearch 
