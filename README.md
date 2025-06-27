@@ -6,7 +6,7 @@ To set up a Wazuh home lab on an Ubuntu server for security monitoring and exten
 ---
 
 ## Lab Setup    
-![Blue and Gold Elegant Minimalist Jewelry Promotions Business Floor Decal (150 x 120 mm)](https://github.com/user-attachments/assets/ecfe331d-e276-4ee7-8012-e627e8a5677d)
+![Image](https://github.com/user-attachments/assets/8e6c002d-d6b4-489f-bf92-ec723845ba0a)
 
 
 
