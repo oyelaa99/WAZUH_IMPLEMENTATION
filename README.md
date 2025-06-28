@@ -14,7 +14,6 @@ To set up a Wazuh home lab on an Ubuntu server for security monitoring and exten
 1. **Virtualization Tools:**  
    - [VirtualBox](https://www.virtualbox.org/)  
    - [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html)  
-   - [Proxmox VE](https://www.proxmox.com/)  
 
 2. **Ubuntu Servers:**  
    - One server as the **Wazuh Manager** (20.04 or later).  
